@@ -1,4 +1,7 @@
-Public firstClass {
+Public firstClass (){
 Public static void gitHub(String S, Integer i){
+List<Account> Newlist = [Select id, Name, Rating From Accout]
+   For(Account acc : new account){
+   }
    }
 }
